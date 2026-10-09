@@ -84,6 +84,7 @@ Proceed to gather the following data points (using the "First Missing Question" 
 - Ask: What type of property do you have?
 - Allowed: Residential, Commercial, Industrial → Eligible
 - Not Allowed: Agricultural → DISQUALIFY
+- *Ambiguity Rule:* If the customer mentions MULTIPLE property types (e.g., "I have residential and agricultural"), DO NOT immediately disqualify. Ask: "Which specific property are you looking to take this loan against?" and evaluate ONLY that specific property.
 
 **2. Ownership Status**
 - Ask: Is it solely owned by you, or is it a joint property?
